@@ -1,0 +1,149 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: #0B1D26;
+}
+
+section{
+    background-image: url(img/Design\ sem\ nome.png ) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    margin-top: 1 0px;
+    box-shadow: 5px 5px 37px 17px #000000
+}
+
+hr{
+    padding: 1px;
+    height: 0px;
+    width: 30px;
+    text-align: center;
+    background: yellow;
+    border: none;
+    position: relative;
+    top: 7px;
+}
+
+.linha-2{
+    position: absolute;
+    top:778px;
+    left: 145px;
+    width: 45px;
+}
+
+.linha-3{
+    right: 50px;
+    width: 45px;
+    top: 13px;
+}
+
+.central{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    /* position: relative; */
+    padding-top:64px ;
+
+}
+.nav2{
+    gap: 20px;
+    display: flex;
+}
+
+.teste{
+    margin-top: 100px;
+    
+  position: relative;
+    width: 310px;
+    left: 500px;
+
+    
+}
+.cima{
+    bottom: 400px;
+    display: flex;
+    gap: 10px;
+    color: yellow;
+    
+}
+ .meio{
+    color: white;
+    font-size: 40px;
+    width: 700px;
+    height: 125px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+} 
+.fim{
+    padding: 20px;
+    color: white;
+    font-size: 15px;
+
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 75px;
+    padding: 75px;
+    height: 800px;
+    width: 1000px;
+    margin-left: 100px;    
+}
+
+.fundo{
+    top:700px;
+    left: 100px;
+    position: absolute;
+    font-size: 200px;
+    opacity:0.1;
+}
+
+.container-2{
+    
+    width: 1000px;
+    height: 800px;
+    color: white;
+    
+}
+
+.inicio{
+    height: 20px;
+    padding: 20px;
+    color: yellow;
+}
+
+.entre{
+    padding: 20px;
+    font-size: 30px;
+}
+
+.termino{
+    padding: 20px;
+    font-size: 20px;
+}
+
+.ultimo2{
+   padding: 20px;
+   color: yellow;
+   font-size: 20px;
+}
+
+
+
+
+
+.container img{
+    width: 300px;
+    height: 500px;
+}
+
+
+
+
+
+
